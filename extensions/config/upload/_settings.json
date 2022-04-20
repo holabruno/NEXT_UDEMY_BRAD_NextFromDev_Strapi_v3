@@ -1,0 +1,8 @@
+{
+  "provider": "strapi-provider-upload-cloudinary",
+  "providerOptions": {
+    "cloud_name": "holabruno",
+    "api_key:": "176382684844211",
+    "api_secret": "wvNLND82Kw3d1Dabela2BDZREjQ"
+  }
+}
